@@ -41,7 +41,7 @@ sections:
       type: ImageBlock
     type: HeroSection
   - elementId: contact-form
-    colors: colors-d
+    colors: colors-f
     width: wide
     height: short
     contentWidth: small
