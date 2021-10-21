@@ -44,7 +44,7 @@ sections:
     colors: colors-c
     width: wide
     height: short
-    contentWidth: large
+    contentWidth: small
     contentAlignHoriz: center
     contentAlignVert: middle
     topGap: none
