@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     width: full
     height: tall
-    contentWidth: large
+    contentWidth: medium
     contentAlignHoriz: center
     contentAlignVert: middle
     topGap: none
