@@ -49,7 +49,7 @@ sections:
     contentAlignVert: middle
     topGap: large
     bottomGap: large
-    variant: variant-a
+    variant: variant-b
     title: Contact us
     text: We look forward to hearing from you.
     form:
