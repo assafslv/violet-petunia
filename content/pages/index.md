@@ -22,7 +22,7 @@ sections:
       - type: Button
         label: Get Started
         url: /
-        style: primary
+        style: secondary
         elementId: hero-main-button
         showIcon: true
         icon: arrowRight
