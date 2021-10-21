@@ -42,7 +42,7 @@ sections:
     type: HeroSection
   - elementId: contact-form
     colors: colors-c
-    width: full
+    width: wide
     height: tall
     contentWidth: large
     contentAlignHoriz: center
