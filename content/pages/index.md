@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-f
-    width: full
+    width: wide
     height: tall
     contentWidth: medium
     contentAlignHoriz: center
