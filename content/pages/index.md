@@ -43,7 +43,7 @@ sections:
   - elementId: contact-form
     colors: colors-c
     width: wide
-    height: tall
+    height: short
     contentWidth: large
     contentAlignHoriz: center
     contentAlignVert: middle
