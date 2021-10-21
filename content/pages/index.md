@@ -48,7 +48,7 @@ sections:
     contentAlignHoriz: center
     contentAlignVert: middle
     topGap: large
-    bottomGap: none
+    bottomGap: large
     variant: variant-a
     title: Contact us
     text: We look forward to hearing from you.
