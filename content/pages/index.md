@@ -49,6 +49,30 @@ sections:
       altText: Contact form image
     action: /.netlify/functions/submission_created
     type: ContactSection
+  - elementId: ''
+    colors: colors-a
+    width: wide
+    height: short
+    contentWidth: large
+    contentAlignHoriz: center
+    contentAlignVert: middle
+    topGap: none
+    bottomGap: none
+    variant: variant-b
+    title: Testimonials
+    subtitle: What our customers say about us
+    testimonials:
+      - type: Testimonial
+        quote: >-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/dianne-ameter.jpg
+          altText: Product Marketing Manager
+    type: TestimonialsSection
   - type: HeroSection
     title: Stackbit Starter
     text: >-
