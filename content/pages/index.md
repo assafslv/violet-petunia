@@ -47,7 +47,7 @@ sections:
     contentWidth: small
     contentAlignHoriz: center
     contentAlignVert: middle
-    topGap: medium
+    topGap: large
     bottomGap: none
     variant: variant-a
     title: Contact us
